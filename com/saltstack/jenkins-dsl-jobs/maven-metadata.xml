@@ -4,8 +4,8 @@
   <artifactId>jenkins-dsl-jobs</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150102120532</lastUpdated>
+    <lastUpdated>20150104012820</lastUpdated>
   </versioning>
 </metadata>
